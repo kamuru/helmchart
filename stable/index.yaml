@@ -41,7 +41,7 @@ entries:
     name: nginx-nn2
     type: application
     urls:
-    - https://yschoe2015.github.io/helmchart/stable/nginx-nn2.tgz
+    - https://kamuru.github.io/helmchart/stable/nginx-nn2.tgz
     version: 0.1.0
   nginx-ys:
   - apiVersion: v2
