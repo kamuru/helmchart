@@ -43,6 +43,17 @@ entries:
     urls:
     - https://kamuru.github.io/helmchart/stable/nginx-nn2.tgz
     version: 0.1.0
+  nginx-nn3:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-11-11T11:35:55.5666363+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 5902591e834f2c130c891e1d6c6a893f18d68315b039afa7ff62d1a828ed797a
+    name: nginx-nn3
+    type: application
+    urls:
+    - https://kamuru.github.io/helmchart/stable/nginx-nn3.tgz
+    version: 0.1.0
   nginx-ys:
   - apiVersion: v2
     appVersion: 1.16.0
